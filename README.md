@@ -36,4 +36,4 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Statistics
-[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=amiradin&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=amiradin&layout=compact))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
